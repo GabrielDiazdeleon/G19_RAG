@@ -9,6 +9,7 @@ langchain_openai
 langgraph
 numpy
 pandas
+pip-upgrader
 pydantic
 redis
 sqlite3
