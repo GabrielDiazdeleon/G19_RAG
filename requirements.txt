@@ -11,6 +11,7 @@ numpy
 pandas
 pydantic
 redis
+sqlite3
 types-redis
 typing
 unstructured
